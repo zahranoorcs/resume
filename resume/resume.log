@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 NOV 2017 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 MAY 2018 20:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,57 +314,63 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ¨ in font cmr10!
  [1
 
 
 \providecommand \oddpage@label [2]{}
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./mypic
 .jpg>]
-Overfull \hbox (2.25566pt too wide) in paragraph at lines 136--138
+Overfull \hbox (2.25566pt too wide) in paragraph at lines 152--154
 \OT1/cmr/bx/n/10 Other Tools\OT1/cmr/m/n/10 : Lar-avel, Word-press, Places-ter,
  IDX Bro-ker, Heroku, Squares-pace, Nav-i-cat for MySQL,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--167
+Underfull \hbox (badness 10000) in paragraph at lines 180--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--171
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--175
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 193--196
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 187.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Underfull \hbox (badness 10000) in paragraph at lines 197--200
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  ) 
 Here is how much of TeX's memory you used:
- 6174 strings out of 493014
- 91896 string characters out of 6133351
+ 6175 strings out of 493014
+ 91902 string characters out of 6133351
  278008 words of memory out of 5000000
  9659 multiletter control sequences out of 15000+600000
  10119 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,35p,435b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,5n,35p,479b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/tex
@@ -372,10 +378,10 @@ live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (2 pages, 93746 bytes).
+Output written on resume.pdf (3 pages, 95174 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
